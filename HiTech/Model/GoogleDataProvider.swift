@@ -1,5 +1,11 @@
 
-//African Programmer source
+//
+//  GoogleDataProvider.swift
+//  
+//
+//  Created by AfricanProgrammer on 08/08/2018.
+//  Copyright (c) 2018 AfricanProgrammer. All rights reserved.
+//
 import UIKit
 import Foundation
 import CoreLocation
